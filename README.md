@@ -4,4 +4,4 @@ Meu nome é Vini, estou aprendendo TI no SENAI "Conde José Vicente de Azevedo",
 
 Estou aprendendo JavaScript, e espero ser um grande profissional.
 
-Sou viciado em jogos, tenho PS4 tenho 10 platinas na minha conta da PSN, entre eles Celeste, Minecraft, Crash 1 ao 4 e CTR, entre outros.
+Sou viciado em jogos, tenho PS4 tenho 10 platinas na minha conta da PSN.
